@@ -22,7 +22,7 @@ Database: Firebase
 Other Tools: APIs, third-party libraries
 ⚙️ Installation
 # Clone the repository
-git clone https://github.com/your-username/axienta-finance-system.git
+git clone https://github.com/axientabusinessconsulting/axienta-finance-system.git
 
 # Navigate to the project folder
 cd axienta-finance-system
